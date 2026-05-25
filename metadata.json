@@ -1,0 +1,13 @@
+{
+  "name": "NexusTask Analytics",
+  "description": "A high-performance project management and analytics dashboard with real-time task tracking and team productivity insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "Tasks Management",
+    "Analytics Dashboard",
+    "Team Productivity Tracking"
+  ]
+}
