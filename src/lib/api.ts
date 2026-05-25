@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Create an Axios instance with the base URL of the Express backend
 const api = axios.create({
-  baseURL: import.meta.env.VITE_API_URL || 'http://localhost:5001/api',
+  baseURL: import.meta.env.VITE_API_URL || 'https://t-backend-production.up.railway.app/api',
 });
 
 // Map to store pending requests
